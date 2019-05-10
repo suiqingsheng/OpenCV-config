@@ -1,1 +1,2 @@
 # OpenCV-config
+本项目主要是介绍Windows操作系统下OpenCV在VS中的配置方法以及相应的测试代码
